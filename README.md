@@ -9,5 +9,8 @@ Precision and Recall values are also close to 90 percent<br /><br />
 
 Power of BERT!!!!<br />
 
+## Deep learning framework
+PyTorch
+
 
 
