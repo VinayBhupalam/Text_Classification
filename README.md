@@ -13,4 +13,7 @@ Power of BERT!!!!<br />
 PyTorch
 
 
+## Model Deployment
+Implemented Flask API
+
 
