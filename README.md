@@ -1,5 +1,5 @@
 # Text_Classification
-Classification of IMDB movie review dataset using pretrained BERT model 
+Classification of IMDB movie review dataset using pretrained BERT model <br />
 BERT model downloaded from HuggingFace GitHub repository.
 
 ## Observation
